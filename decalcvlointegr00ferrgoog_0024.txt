@@ -1,0 +1,43 @@
+. xvn
+
+„ toto ferme saeculo 'tum elapso Mathematicis Italis in certaminis
+formam missorum,jqucmadmodum liquet ex Opusculo Vincentii
+Viviani Florentiae edito sub anuum M.DC.LXXVII¹¹¹”., cui titu-
+lus Enodntio Problemnturu Gallicorum etc. Nihilo tamen minus
+'idem Problema implexis atque admodum prolixis calculis alge-
+braicis resolutum nonnulli studiosorum Analyseos mihi osteude-
+runt decimumsextum aetatis aunum agenti. Algcbra reiecta illud
+extemplo enodavi hunc‘in modum. Emissa chorda AON per·
+pendiculari ad diametrum positione dotum LVM, Centro O,
+Axe' transverso AN describatur aequilatera Hyperbola RAQSNTa
+
+deinde Axe GVH, ac Parametro, quae radio GV sit aequalis, ¹
+
+describatur Parabola Apollonii KLGMI. A quatuor intersectio-
+
+nis Curvatum earundem punctis P,G,K,I emissis normalibus
+ad diametrum, scilicet PB,GV,KF,1E‚ et a puncto dato A
+ductis rectis ABC,AVD,AXF‚AZE, hae universaliter Problema
+
+solvent. Revera ex Parabolae proprietatibus est PB media har·
+monica inter segmenta LB‚BM; cx adfectionibus aurem Hyper-
+bolae PB aequalis AB: igitur AB est media harmonica inter
+LB‚BM, et idcirco ex natura Circuli BC media arithmetica,
+nimirum aequalis radio. Idem de ceteris; scd puuctum V de·
+’ monstrationis non eget utpote centrum Circuli. Ludus iste pue·
+silis, cuius fama in Academia Pisana percrebuit, maximum olim
+milti conciliavicltonorem nescioquo pacto, nisi forte dixerim
+summopere laudatum ea tempestate qui geometricam Analysin et
+Synthesin nosset. Omnium denique plausu acceptus iterum fui-
+· quum Academicos ipsos monuerim hoc Problema idem esse cum
+antiquissimo Gymnasii Platonici de auguli trisectione, ideoque
+facile revocandum ad intersectionem unius tantummodo Conica·
+rum et Circularis Circumferentiae. Quid autem dicam de sub·
+tilissiuro Tinseau'? Hic ut Theorcma demonstret,a quo pendet
+mensura omnigenarum Superficierum‚ praemittit Lemma πω. iu
+eleganti. Dissertatione (pag². 593.) Volumiuis le collectionis
+
+inscriptae ⁸
+
+ 
+
